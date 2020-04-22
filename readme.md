@@ -1,11 +1,15 @@
 # Jira - Implemetation
 
-- v1.0.0
+## v1.0.0
 
-  ## Patches
+### Features
 
-        - Adicionado hooks para adicionar codigo de versão a messagem de commit
+- Adicionada foto do usuário
 
-  ## Fixes
+### Patches
 
-        * Fixando o prepare-commit-msg
+- Adicionado hooks para adicionar codigo de versão a messagem de commit
+
+### Fixes
+
+- Fixando o prepare-commit-msg
